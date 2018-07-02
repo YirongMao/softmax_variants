@@ -4,7 +4,7 @@ implemented by pytorch 0.3.1
 
 the training dataset is MNIST
 
-You can directly run code train_xxx.py to reproduce the result
+You can directly run code train_mnist_xxx.py to reproduce the result
 
 The reference paper are as follow:
 
