@@ -6,7 +6,7 @@ the training dataset is MNIST
 
 You can directly run code train_mnist_xxx.py to reproduce the result
 
-The reference paper are as follow:
+The reference papers are as follow:
 
 Center loss: Yandong Wen, Kaipeng Zhang, Zhifeng Li and Yu Qiao. A Discriminative Feature Learning Approach for Deep Face Recognition. ECCV 2016
 
@@ -16,7 +16,7 @@ Large-margin gaussian mixture loss: Weitao Wan, Yuanyi Zhong,Tianpeng Li, Jiansh
 
 COSO loss: Yu Liu, Hongyang Li, Xiaogang Wang. Rethinking Feature Discrimination and Polymerization for Large scale recognition. NIPS workshop 2017
 
-The 2-d embedding feature are:
+The learned 2-d embedding features are:
 
 softmax loss
 
