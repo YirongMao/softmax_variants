@@ -17,15 +17,21 @@ Large-margin gaussian mixture loss: Weitao Wan, Yuanyi Zhong,Tianpeng Li, Jiansh
 COSO loss: Yu Liu, Hongyang Li, Xiaogang Wang. Rethinking Feature Discrimination and Polymerization for Large scale recognition. NIPS workshop 2017
 
 The 2-d embedding feature are:
-softmax loss\<br>
+
+softmax loss
+
 ![image](https://github.com/YirongMao/softmax_variants/blob/master/images/softmax_loss_epoch%3D50.jpg)
-COCO loss\<br>
+COCO loss
+
 ![image]( https://github.com/YirongMao/softmax_variants/blob/master/images/coco_loss_epoch%3D50.jpg)
-Center loss\<br>
+Center loss
+
 ![image](https://github.com/YirongMao/softmax_variants/blob/master/images/center_loss_epoch%3D50.jpg)
-CosFace loss\<br>
+CosFace loss
+
 ![image](https://github.com/YirongMao/softmax_variants/blob/master/images/LMCL_loss_u_epoch%3D50.jpg)
-Large-margin gaussian mixture loss\<br>
+Large-margin gaussian mixture loss
+
 ![image](https://github.com/YirongMao/softmax_variants/blob/master/images/LGM_loss_epoch%3D50.jpg)
  
 
