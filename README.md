@@ -1,5 +1,5 @@
 # softmax_variants
-Various loss functions about variants of softmax: center loss, cosface loss, large-margin gaussian mixture, COCOLoss
+Various loss functions for softmax variants: center loss, cosface loss, large-margin gaussian mixture, COCOLoss
 implemented by pytorch 0.3.1
 
 the training dataset is MNIST
