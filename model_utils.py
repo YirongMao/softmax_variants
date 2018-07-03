@@ -41,6 +41,10 @@ class Net(nn.Module):
 
     
 class RingLoss(nn.Module):
+    """
+    Refer to paper
+    Ring loss: Convex Feature Normalization for Face Recognition
+    """
     def __init__(self, type='L2', loss_weight=1.0):
         super(RingLoss, self).__init__()
         self.radius = nn.Parameter(torch.Tensor(1))
